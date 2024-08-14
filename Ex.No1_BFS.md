@@ -15,7 +15,7 @@ To write a python program to implement Breadth first Search.
 8.   Stop the program.
 
 ### Program:
-
+```
 graph={
     '5':['3','7'],
     '3':['2','4'],
@@ -40,6 +40,7 @@ def bfs(visited, graph, node):
 #Driver code
 print("Following is the Breadth First Search")
 bfs(visited, graph, '5')
+```
 
 
 
