@@ -84,8 +84,8 @@ Step 7: Stop the program.<br>
 ![image](https://github.com/user-attachments/assets/adb2f0d2-5af7-4120-889e-d3118d64d279)
 ![image](https://github.com/user-attachments/assets/3d4427a2-61b0-41a9-84ae-d9bdcfb517c3)
 ![image](https://github.com/user-attachments/assets/9b208d0c-7571-4b92-b231-21df92215cbf)
-![image](https://github.com/user-attachments/assets/8575710d-5b7b-4d55-9857-0534462dc22d
-![image](https://github.com/user-attachments/assets/0944b211-484b-47e3-99eb-ec250f7f4447
+![image](https://github.com/user-attachments/assets/8974f856-f13e-4687-a53f-ca5bc36339f0)
+![image](https://github.com/user-attachments/assets/c68053dd-277d-4a20-8b61-dfd66ae2e9b6)
 ![image](https://github.com/user-attachments/assets/4869cbc2-13bc-49e1-a9ec-7ec5d6f75ff5)
 
 ### Result:
